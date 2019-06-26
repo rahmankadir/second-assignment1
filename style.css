@@ -1,0 +1,14 @@
+*{
+	sizing-box: border-box;
+}
+h2{
+	color:black;
+	text-align: center;
+	background-color:#229bff
+	border-radius:10px;
+	max-width:210px;
+	margin:10 px 20 px;
+	padding:10px 10 px;
+}
+
+
